@@ -20,7 +20,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="climate-guard-api",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.3",
     author="oberdev",
     author_email="qovalski@gmail.com",
     description="Climate Guard Api for boxes",
