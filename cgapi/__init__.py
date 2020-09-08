@@ -1,5 +1,3 @@
-def hello():
-    print('hello')
+from .api import ClimateGuardApi
 
-
-__all__ = ['hello']
+__all__ = ['ClimateGuardApi']
