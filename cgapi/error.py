@@ -1,2 +1,6 @@
-class UnauthorisedError(Exception):
+class Unauthorized(Exception):
+    pass
+
+
+class NotImplemented(Exception):
     pass
